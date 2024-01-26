@@ -8,3 +8,4 @@ import matplotlib.pyplot as plt
 from statsmodels.tsa.arima.model import ARIMA
 import statsmodels.tsa.api as smt
 import scipy.stats as scs
+from sklearn.metrics import r2_score
