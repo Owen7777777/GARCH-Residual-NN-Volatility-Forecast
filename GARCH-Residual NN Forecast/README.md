@@ -6,4 +6,4 @@ RES-NN Volatility Forecast notebook used our new **Revised Input Way** of import
 
 The Dataset composed of 6 financial assets used to test the effect of our improved models comes from different fields: **Stock indices in different countries, Bulk products, Cryptocurrencies**
 
-The Framework of Machine Learning is TensorFlow
+The Framework of Machine Learning is **TensorFlow**
